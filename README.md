@@ -1,2 +1,18 @@
-# escrevendo-classes-de-um-jogo
-Este projeto consiste na criação de uma classe que representa um herói de um jogo de aventura, utilizando conceitos básicos de programação como variáveis, estruturas de decisão, funções e orientação a objetos. O herói possui atributos como nome, idade e tipo, e um método de ataque que exibe uma mensagem diferente conforme o tipo do personagem.
+# 🛡️ Jogo de Heróis em JavaScript ⚔️✨
+
+## 📖 Descrição
+Projeto simples para criar heróis e simular ataques de acordo com o tipo do personagem.
+
+## 🛠️ Tecnologias
+- JavaScript (ES6+)
+
+## 🚀 Funcionalidades
+- Criar heróis com **nome, idade e tipo**
+- Cada herói possui método **`atacar()`**
+- Ataques diferentes por tipo:
+  - 🧙‍♂️ Mago → magia
+  - 🗡️ Guerreiro → espada
+  - 🥋 Monge → artes marciais
+  - 🥷 Ninja → shuriken
+- Percorrer array de heróis e executar ataques
+
